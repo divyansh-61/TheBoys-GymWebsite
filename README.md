@@ -32,7 +32,7 @@ Dive into our photo library, offering a classy overview of the virtual gym exper
 To run the project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/divyansh-61/TheBoys-GymWebsites.git
+git clone https://github.com/divyansh-61/TheBoys-GymWebsite.git
 
 Navigate to the project directory:
 cd Websites
